@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meet_project2</string>
+    <string name="signin">signin</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="signup">signup</string>
+</resources>
