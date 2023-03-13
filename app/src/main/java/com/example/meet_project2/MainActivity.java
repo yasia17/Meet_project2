@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText emailEditText;
     private EditText passwordEditText;
-
+    private int num;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
