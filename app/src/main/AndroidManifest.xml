@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Meet_project2">
         <activity
+            android:name=".helped"
+            android:exported="false" />
+        <activity
             android:name=".Signed_in"
             android:exported="false" />
         <activity

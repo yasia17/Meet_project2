@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/button_signin"
 
-        android:text="@string/signin"
+        android:text="sign in"
         tools:layout_editor_absoluteX="116dp"
         tools:layout_editor_absoluteY="195dp" />
 
@@ -46,7 +46,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/button_signin"
 
-        android:text="@string/signup"
+        android:text="sign up"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="195dp" />
 
